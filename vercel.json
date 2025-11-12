@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://baysulu-onefile-rtdl.vercel.app/:path*",
+      "permanent": true
+    }
+  ]
+}
